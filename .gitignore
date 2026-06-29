@@ -1,0 +1,2 @@
+# Large firmware binaries belong in GitHub Releases, not committed to the repo.
+*.bin

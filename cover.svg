@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0E1116"/>
+  <rect x="14" y="14" width="484" height="484" rx="20" fill="none" stroke="#1f2630" stroke-width="2"/>
+
+  <text x="256" y="158" text-anchor="middle" font-family="monospace"
+        font-size="24" letter-spacing="10" fill="#79828F">LOGBOOK</text>
+
+  <text x="256" y="272" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="92">
+    <tspan fill="#E7ECF3">Ham</tspan><tspan fill="#4C9AFF">QSO</tspan>
+  </text>
+
+  <rect x="196" y="298" width="120" height="9" rx="4" fill="#FF9B45"/>
+
+  <text x="256" y="372" text-anchor="middle" font-family="monospace"
+        font-size="30" fill="#cdd5de">QSO logger</text>
+
+  <text x="256" y="416" text-anchor="middle" font-family="monospace"
+        font-size="24" fill="#FF9B45">Cardputer ADV</text>
+
+  <text x="256" y="476" text-anchor="middle" font-family="monospace"
+        font-size="19" fill="#5b6471">by HJ3DAG &#183; Diego Guevara</text>
+</svg>
