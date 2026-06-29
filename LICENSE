@@ -1,0 +1,24 @@
+HamQSO firmware — License & redistribution notice
+
+Copyright (c) 2026 Diego Guevara (HJ3DAG).
+
+This repository distributes the HamQSO firmware as a compiled binary for the
+M5Stack Cardputer ADV. The source code is not included.
+
+You MAY:
+  - Download, install, and run this firmware on your own device(s), free of charge.
+  - Redistribute the UNMODIFIED binary, as long as this notice and the
+    attribution "HamQSO by HJ3DAG" are kept intact.
+
+You MAY NOT:
+  - Sell the firmware on its own, or claim authorship of it.
+
+THE FIRMWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. USE IT AT YOUR OWN RISK; THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE OR
+DATA LOSS ARISING FROM ITS USE.
+
+The binary incorporates third-party open-source libraries (including
+Arduino-ESP32 and M5Unified), which remain under their respective licenses.
+
+The documentation in this repository (README and user guide) may be reused
+with attribution.
