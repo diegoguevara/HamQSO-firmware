@@ -1,4 +1,4 @@
-# HamQSO — firmware for the M5Stack Cardputer ADV
+# HamQSO - firmware for the M5Stack Cardputer ADV
 
 <p align="center"><img src="cover.png" alt="HamQSO" width="320"></p>
 
@@ -8,7 +8,7 @@ This repository distributes the **ready‑to‑flash firmware binary**. (The sou
 
 > 📖 New to it? Read the **[User Guide](USER-GUIDE.md)** — three screens, a handful of keys.
 
-## ⚠️ Device compatibility
+##  Device compatibility
 
 - ✅ **M5Stack Cardputer ADV** (the newer model, StampS3A).
 - ❌ **Not** the original M5Stack Cardputer — it has different microSD wiring, so this build won't read the card on it.
@@ -53,4 +53,4 @@ Full walkthrough: **[User Guide](USER-GUIDE.md)**.
 - The binary includes third‑party libraries (Arduino‑ESP32, M5Unified) under their respective licenses.
 - Provided as‑is, no warranty. Feedback and bug reports welcome via Issues.
 
-73! 📻
+73! 
